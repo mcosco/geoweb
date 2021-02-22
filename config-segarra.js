@@ -9,7 +9,7 @@ var config = {
     title: 'La Segarra, terra de castells',
     subtitle: 'Un recorregut per tots els castells de la comarca lliedatana La Segarra',
     //byline: 'M2B ',
-    footer: 'Creat per: Marta Cosconera',
+    footer: 'Source: Turisme la Segarra',
     chapters: [
         {
             id: 'Segarra1',
