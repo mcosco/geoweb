@@ -7,7 +7,7 @@ var config = {
     theme: 'dark',
     use3dTerrain: true,
     title: 'La Segarra, terra de castells',
-    subtitle: 'Un recorregut per tots els castells de la comarca lliedatana La Segarra',
+    subtitle: 'Un recorregut per tots els castells de la comarca lleidatana La Segarra',
     //byline: 'M2B ',
     footer: 'Source: Turisme la Segarra',
     chapters: [
@@ -15,7 +15,7 @@ var config = {
             id: 'Segarra1',
             alignment: 'left',
             hidden: false,
-            title: 'La segarra',
+            title: 'La Segarra',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Localitzaci%C3%B3_de_la_Segarra.svg/1200px-Localitzaci%C3%B3_de_la_Segarra.svg.png',
             description: "La comarca de La Segarra és anomenada terra de castells pel gran nombre de fortificacions que s'hi aixequen. Els segles XI-XII en aquest indret, travessat per la vall del riu Sió, s'hi dibuixava la frontera entre els comptats catalans cristians i l'Al-Àndalus àrab. Aquest fet convertia aquesta zona en un espai insegur amb fortes necessitats defensives.",
             location: {

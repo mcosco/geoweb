@@ -31,6 +31,13 @@
                 zoom: 13,
                 attributionControl: false
             });
+            
+            /*
+            map.on('load', function () {
+                addCementerioCapa();
+            })
+            */
+
             //Añadimos controles
             map.addControl(new mapboxgl.AttributionControl({compact: true}));
             map.addControl(new mapboxgl.NavigationControl());
@@ -40,6 +47,7 @@
             .setLngLat([2.837273, 41.972421])
             .setPopup(new mapboxgl.Popup().setHTML('<h3>Hola</h3>'))
             .addTo(map);
+            
 
          }
     </script>
